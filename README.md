@@ -1,2 +1,2 @@
 # fundraising-website
-might not be mine :(
+the project might not be mine :(
